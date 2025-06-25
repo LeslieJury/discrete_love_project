@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 464: end of line expected.
+    t "Sorry that's the name of one of the nuclear bombs dropped on Japan. ごめんなさい":
+                                                                                  ^
+
+File "game/script.rpy", line 467: end of line expected.
+    t "Congrats yep! It was referenced in the beginning, Anita and Von Neumann joked around about its name":
+                                                                                                           ^
+
+Ren'Py Version: Ren'Py 8.3.7.25031702
+Tue Jun 17 18:39:14 2025
